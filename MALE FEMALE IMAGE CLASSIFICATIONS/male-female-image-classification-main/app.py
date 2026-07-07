@@ -7,7 +7,7 @@ from PIL import Image
 IMG_SIZE = 64
 
 # Load trained model
-model = joblib.load("female_male_model.pkl")
+model = joblib.load("MALE FEMALE IMAGE CLASSIFICATIONS/male-female-image-classification-main/female_male_model (2).pkl")
 
 st.title("Male vs Female Image Classification")
 
