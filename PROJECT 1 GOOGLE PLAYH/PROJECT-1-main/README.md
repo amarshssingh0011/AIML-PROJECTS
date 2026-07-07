@@ -1,2 +1,2 @@
 # project1 
-https://aimrbnbnj.streamlit.app/
+https://aiml-projects-nwmb9tdjcl2q9b2x3xsddh.streamlit.app/
