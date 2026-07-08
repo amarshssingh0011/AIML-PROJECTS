@@ -1,6 +1,6 @@
 PROJECT 1 GOOGLE PLAY STORE DATA VISUALIZATION DASHBOARD https://aiml-projects-nwmb9tdjcl2q9b2x3xsddh.streamlit.app/
 
-PROJECT 2 OUTLIER DETECTION USING Z SCORE https://aiml-projects-nwmb9tdjcl2q9b2x3xsddh.streamlit.app/
+PROJECT 2 OUTLIER DETECTION USING Z SCORE https://aiml11.streamlit.app/
 
 PROJECT 3 CANADA PER CAPITA INCOME PREDICTION https://project-3-pm.streamlit.app/
 
