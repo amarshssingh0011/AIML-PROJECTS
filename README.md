@@ -19,3 +19,5 @@ PROJECT 9 K-MEANS CLUSTERING APP https://aiml-projects-heyrpc8hdhsxyjyhtecbui.st
 PROJECT 10 HOUSE PRICE PREDICTION https://yfiyutuhilhiouio.streamlit.app/
 
 PROJECT 11 GENDER CLASSIFICATION APP https://project-10-male-female-9cfqvyjjygzc67pfysktmv.streamlit.app/
+
+PROJECT 12 COVID XRAY https://project-12-covid-xray-flcik74ln7fe6ws95up8bu.streamlit.app/
