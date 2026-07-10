@@ -1,4 +1,4 @@
-PROJECT 1 GOOGLE PLAY STORE DATA VISUALIZATION DASHBOARD https://aiml-projects-nwmb9tdjcl2q9b2x3xsddh.streamlit.app/
+PROJECT 1 GOOGLE PLAY STORE DATA VISUALIZATION DASHBOARD https://aiml-projects-nhg9agqby2vedokrnk7i82.streamlit.app/
 
 PROJECT 2 OUTLIER DETECTION USING Z SCORE https://aiml11.streamlit.app/
 
